@@ -229,7 +229,8 @@ document.addEventListener("DOMContentLoaded", () => {
             event.preventDefault();
 
             alert(
-                "This project link will be available soon."
+                "http://github.com/theedurk97.cmyk/Francis.dev-Portfolio
+               "
             );
 
         });
