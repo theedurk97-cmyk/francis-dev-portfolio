@@ -229,7 +229,7 @@ document.addEventListener("DOMContentLoaded", () => {
             event.preventDefault();
 
             alert(
-                "http://github.com/theedurk97.cmyk/Francis.dev-Portfolio
+                "This project will be soon
                "
             );
 
